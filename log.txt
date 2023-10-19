@@ -1,0 +1,1134 @@
+tree func start
+reset node
+depth 1 finished. depth1 size is 0
+tree func start
+reset node
+x : 7, y : 10 - tree.depth1.code7
+node : (7, 10) 
+x : 9, y : 10 - tree.depth1.code7
+node : (7, 10) (9, 10) 
+x : 11, y : 10 - tree.depth1.code7
+node : (7, 10) (9, 10) (11, 10) 
+depth 1 finished. depth1 size is 3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 7 , y = 10
+tree func start
+reset node
+x : 6, y : 12 - tree.depth1.code7
+node : (6, 12) 
+x : 7, y : 7 - tree.depth1.code7
+node : (6, 12) (7, 7) 
+x : 7, y : 11 - tree.depth1.code7
+node : (6, 12) (7, 7) (7, 11) 
+x : 8, y : 8 - tree.depth1.code7
+node : (6, 12) (7, 7) (7, 11) (8, 8) 
+x : 10, y : 8 - tree.depth1.code7
+node : (6, 12) (7, 7) (7, 11) (8, 8) (10, 8) 
+x : 11, y : 7 - tree.depth1.code7
+node : (6, 12) (7, 7) (7, 11) (8, 8) (10, 8) (11, 7) 
+x : 11, y : 11 - tree.depth1.code7
+node : (6, 12) (7, 7) (7, 11) (8, 8) (10, 8) (11, 7) (11, 11) 
+x : 12, y : 12 - tree.depth1.code7
+node : (6, 12) (7, 7) (7, 11) (8, 8) (10, 8) (11, 7) (11, 11) (12, 12) 
+depth 1 finished. depth1 size is 8
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 6 , y = 12
+tree func start
+reset node
+x : 7, y : 7 - tree.depth1.code7
+node : (7, 7) 
+x : 8, y : 8 - delete all node (depth 1)
+tree.depth1.code6
+node : (8, 8) 
+x : 8, y : 9 - node : (8, 8) 
+x : 8, y : 12 - node : (8, 8) 
+x : 8, y : 13 - node : (8, 8) 
+x : 10, y : 8 - node : (8, 8) 
+x : 11, y : 7 - node : (8, 8) 
+x : 11, y : 11 - node : (8, 8) 
+x : 12, y : 12 - node : (8, 8) 
+depth 1 finished. depth1 size is 1
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 8 , y = 8
+tree func start
+reset node
+x : 8, y : 12 - delete all node (depth 1)
+tree.depth1.code4
+node : (8, 12) 
+x : 10, y : 8 - node : (8, 12) 
+x : 11, y : 7 - node : (8, 12) 
+depth 1 finished. depth1 size is 1
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 8 , y = 12
+tree func start
+reset node
+x : 5, y : 12 - tree.depth1.code7
+node : (5, 12) 
+x : 7, y : 12 - tree.depth1.code7
+node : (5, 12) (7, 12) 
+x : 7, y : 13 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) 
+x : 9, y : 12 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) 
+x : 9, y : 13 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) (9, 13) 
+x : 10, y : 8 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) (9, 13) (10, 8) 
+x : 10, y : 11 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) (9, 13) (10, 8) (10, 11) 
+x : 10, y : 12 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) (9, 13) (10, 8) (10, 11) (10, 12) 
+x : 11, y : 7 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) (9, 13) (10, 8) (10, 11) (10, 12) (11, 7) 
+x : 11, y : 13 - tree.depth1.code7
+node : (5, 12) (7, 12) (7, 13) (9, 12) (9, 13) (10, 8) (10, 11) (10, 12) (11, 7) (11, 13) 
+depth 1 finished. depth1 size is 10
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+delete all node (depth 2)
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code3
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 5 , y = 12
+tree func start
+reset node
+x : 4, y : 13 - tree.depth1.code7
+node : (4, 13) 
+x : 5, y : 10 - tree.depth1.code7
+node : (4, 13) (5, 10) 
+x : 5, y : 14 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) 
+x : 6, y : 11 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) 
+x : 6, y : 13 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) 
+x : 7, y : 13 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) 
+x : 8, y : 9 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) 
+x : 9, y : 10 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) 
+x : 9, y : 13 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) 
+x : 9, y : 14 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) 
+x : 10, y : 8 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) 
+x : 10, y : 9 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) (10, 9) 
+x : 10, y : 11 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) (10, 9) (10, 11) 
+x : 10, y : 12 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) (10, 9) (10, 11) (10, 12) 
+x : 10, y : 15 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) (10, 9) (10, 11) (10, 12) (10, 15) 
+x : 11, y : 7 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) (10, 9) (10, 11) (10, 12) (10, 15) (11, 7) 
+x : 11, y : 13 - tree.depth1.code7
+node : (4, 13) (5, 10) (5, 14) (6, 11) (6, 13) (7, 13) (8, 9) (9, 10) (9, 13) (9, 14) (10, 8) (10, 9) (10, 11) (10, 12) (10, 15) (11, 7) (11, 13) 
+depth 1 finished. depth1 size is 17
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+delete all node (depth 2)
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code3
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 4 , y = 13
+tree func start
+reset node
+x : 5, y : 10 - tree.depth1.code7
+node : (5, 10) 
+x : 6, y : 11 - delete all node (depth 1)
+tree.depth1.code3
+node : (6, 11) 
+x : 6, y : 13 - node : (6, 11) 
+x : 7, y : 13 - node : (6, 11) 
+x : 9, y : 13 - node : (6, 11) 
+x : 9, y : 14 - node : (6, 11) 
+x : 10, y : 8 - node : (6, 11) 
+x : 10, y : 9 - node : (6, 11) 
+x : 10, y : 11 - node : (6, 11) 
+x : 10, y : 12 - node : (6, 11) 
+x : 10, y : 15 - node : (6, 11) 
+x : 11, y : 7 - node : (6, 11) 
+x : 11, y : 10 - node : (6, 11) 
+x : 11, y : 13 - node : (6, 11) 
+x : 12, y : 10 - node : (6, 11) 
+depth 1 finished. depth1 size is 1
+get_cp_st_arr start
+get_cp_st_arr finish
+delete all node (depth 2)
+tree.depth2.code1
+delete all node (depth 2)
+tree.depth2.code3
+delete all node (depth 2)
+tree.depth2.code2
+delete all node (depth 2)
+tree.depth2.code1
+tree.depth2.code2
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 6 , y = 11
+tree func start
+reset node
+x : 3, y : 14 - tree.depth1.code1
+tree func start
+reset node
+depth 1 finished. depth1 size is 0
+tree func start
+reset node
+depth 1 finished. depth1 size is 0
+tree func start
+reset node
+x : 6, y : 6 - tree.depth1.code7
+node : (6, 6) 
+x : 7, y : 7 - tree.depth1.code7
+node : (6, 6) (7, 7) 
+x : 7, y : 8 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) 
+x : 8, y : 9 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) 
+x : 8, y : 11 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) (8, 11) 
+x : 9, y : 11 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) (8, 11) (9, 11) 
+x : 11, y : 12 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) 
+x : 12, y : 11 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) (12, 11) 
+x : 12, y : 13 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) (12, 11) (12, 13) 
+x : 13, y : 11 - tree.depth1.code7
+node : (6, 6) (7, 7) (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) (12, 11) (12, 13) (13, 11) 
+depth 1 finished. depth1 size is 10
+get_cp_st_arr start
+get_cp_st_arr finish
+delete all node (depth 2)
+tree.depth2.code1
+delete all node (depth 2)
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+delete all node (depth 2)
+tree.depth2.code1
+tree.depth2.code3
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 6 , y = 6
+tree func start
+reset node
+x : 7, y : 8 - tree.depth1.code7
+node : (7, 8) 
+x : 8, y : 9 - tree.depth1.code7
+node : (7, 8) (8, 9) 
+x : 8, y : 11 - tree.depth1.code7
+node : (7, 8) (8, 9) (8, 11) 
+x : 9, y : 11 - tree.depth1.code7
+node : (7, 8) (8, 9) (8, 11) (9, 11) 
+x : 11, y : 12 - tree.depth1.code7
+node : (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) 
+x : 12, y : 11 - tree.depth1.code7
+node : (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) (12, 11) 
+x : 12, y : 13 - tree.depth1.code7
+node : (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) (12, 11) (12, 13) 
+x : 13, y : 11 - tree.depth1.code7
+node : (7, 8) (8, 9) (8, 11) (9, 11) (11, 12) (12, 11) (12, 13) (13, 11) 
+depth 1 finished. depth1 size is 8
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 7 , y = 8
+tree func start
+reset node
+x : 8, y : 11 - tree.depth1.code7
+node : (8, 11) 
+x : 9, y : 11 - tree.depth1.code7
+node : (8, 11) (9, 11) 
+x : 11, y : 12 - tree.depth1.code7
+node : (8, 11) (9, 11) (11, 12) 
+x : 12, y : 11 - tree.depth1.code7
+node : (8, 11) (9, 11) (11, 12) (12, 11) 
+x : 12, y : 13 - tree.depth1.code7
+node : (8, 11) (9, 11) (11, 12) (12, 11) (12, 13) 
+x : 13, y : 11 - tree.depth1.code7
+node : (8, 11) (9, 11) (11, 12) (12, 11) (12, 13) (13, 11) 
+depth 1 finished. depth1 size is 6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 8 , y = 11
+tree func start
+reset node
+x : 8, y : 9 - tree.depth1.code7
+node : (8, 9) 
+x : 8, y : 10 - tree.depth1.code7
+node : (8, 9) (8, 10) 
+x : 11, y : 9 - tree.depth1.code7
+node : (8, 9) (8, 10) (11, 9) 
+x : 11, y : 10 - tree.depth1.code7
+node : (8, 9) (8, 10) (11, 9) (11, 10) 
+x : 11, y : 13 - tree.depth1.code7
+node : (8, 9) (8, 10) (11, 9) (11, 10) (11, 13) 
+x : 11, y : 14 - tree.depth1.code7
+node : (8, 9) (8, 10) (11, 9) (11, 10) (11, 13) (11, 14) 
+x : 12, y : 11 - tree.depth1.code7
+node : (8, 9) (8, 10) (11, 9) (11, 10) (11, 13) (11, 14) (12, 11) 
+x : 12, y : 13 - delete all node (depth 1)
+tree.depth1.code4
+node : (12, 13) 
+x : 13, y : 11 - node : (12, 13) 
+depth 1 finished. depth1 size is 1
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 12 , y = 13
+tree func start
+reset node
+x : 8, y : 9 - tree.depth1.code7
+node : (8, 9) 
+x : 8, y : 10 - tree.depth1.code7
+node : (8, 9) (8, 10) 
+x : 9, y : 14 - tree.depth1.code7
+node : (8, 9) (8, 10) (9, 14) 
+x : 10, y : 9 - tree.depth1.code7
+node : (8, 9) (8, 10) (9, 14) (10, 9) 
+x : 10, y : 13 - tree.depth1.code7
+node : (8, 9) (8, 10) (9, 14) (10, 9) (10, 13) 
+x : 11, y : 9 - tree.depth1.code7
+node : (8, 9) (8, 10) (9, 14) (10, 9) (10, 13) (11, 9) 
+x : 11, y : 10 - delete all node (depth 1)
+tree.depth1.code6
+node : (11, 10) 
+x : 11, y : 13 - node : (11, 10) 
+x : 11, y : 14 - node : (11, 10) 
+x : 13, y : 10 - node : (11, 10) 
+x : 13, y : 11 - delete all node (depth 1)
+tree.depth1.code4
+node : (13, 11) 
+x : 14, y : 9 - node : (13, 11) 
+depth 1 finished. depth1 size is 1
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+delete all node (depth 2)
+tree.depth2.code4
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 13 , y = 11
+tree func start
+reset node
+x : 8, y : 9 - tree.depth1.code7
+node : (8, 9) 
+x : 8, y : 10 - tree.depth1.code7
+node : (8, 9) (8, 10) 
+x : 10, y : 9 - tree.depth1.code7
+node : (8, 9) (8, 10) (10, 9) 
+x : 10, y : 13 - delete all node (depth 1)
+tree.depth1.code4
+node : (10, 13) 
+x : 11, y : 9 - node : (10, 13) 
+x : 11, y : 10 - node : (10, 13) 
+x : 11, y : 13 - node : (10, 13) 
+x : 11, y : 14 - node : (10, 13) 
+x : 14, y : 9 - tree.depth1.code4
+node : (10, 13) (14, 9) 
+depth 1 finished. depth1 size is 2
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+delete all node (depth 2)
+tree.depth2.code4
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code4
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 10 , y = 13
+tree func start
+reset node
+x : 7, y : 10 - tree.depth1.code7
+node : (7, 10) 
+x : 8, y : 9 - tree.depth1.code7
+node : (7, 10) (8, 9) 
+x : 8, y : 10 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) 
+x : 9, y : 12 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (9, 12) 
+x : 9, y : 13 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (9, 12) (9, 13) 
+x : 10, y : 9 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (9, 12) (9, 13) (10, 9) 
+x : 11, y : 9 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (9, 12) (9, 13) (10, 9) (11, 9) 
+x : 11, y : 10 - delete all node (depth 1)
+tree.depth1.code6
+node : (11, 10) 
+x : 11, y : 13 - node : (11, 10) 
+x : 11, y : 14 - node : (11, 10) 
+x : 13, y : 13 - node : (11, 10) 
+x : 15, y : 8 - delete all node (depth 1)
+tree.depth1.code2
+node : (15, 8) 
+depth 1 finished. depth1 size is 1
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+delete all node (depth 2)
+tree.depth2.code4
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 15 , y = 8
+tree func start
+reset node
+x : 7, y : 10 - tree.depth1.code7
+node : (7, 10) 
+x : 8, y : 9 - tree.depth1.code7
+node : (7, 10) (8, 9) 
+x : 8, y : 10 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) 
+x : 8, y : 13 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (8, 13) 
+x : 9, y : 12 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (8, 13) (9, 12) 
+x : 9, y : 13 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (8, 13) (9, 12) (9, 13) 
+x : 10, y : 9 - delete all node (depth 1)
+tree.depth1.code4
+node : (10, 9) 
+x : 11, y : 9 - tree.depth1.code4
+node : (10, 9) (11, 9) 
+x : 11, y : 13 - tree.depth1.code4
+node : (10, 9) (11, 9) (11, 13) 
+x : 11, y : 14 - node : (10, 9) (11, 9) (11, 13) 
+x : 12, y : 9 - node : (10, 9) (11, 9) (11, 13) 
+x : 13, y : 8 - node : (10, 9) (11, 9) (11, 13) 
+x : 13, y : 13 - node : (10, 9) (11, 9) (11, 13) 
+depth 1 finished. depth1 size is 3
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+delete all node (depth 2)
+tree.depth2.code2
+tree.depth2.code2
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code2
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code2
+depth 2 finished
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+get_cp_st_arr start
+get_cp_st_arr finish
+depth 3 finished
+calculate add point of all nodes
+x = 10 , y = 9
+tree func start
+reset node
+x : 7, y : 10 - tree.depth1.code7
+node : (7, 10) 
+x : 8, y : 9 - tree.depth1.code7
+node : (7, 10) (8, 9) 
+x : 8, y : 10 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) 
+x : 8, y : 13 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (8, 13) 
+x : 9, y : 12 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (8, 13) (9, 12) 
+x : 9, y : 13 - tree.depth1.code7
+node : (7, 10) (8, 9) (8, 10) (8, 13) (9, 12) (9, 13) 
+x : 11, y : 8 - delete all node (depth 1)
+tree.depth1.code2
+node : (11, 8) 
+x : 11, y : 13 - tree.depth1.code2
+node : (11, 8) (11, 13) 
+x : 11, y : 14 - node : (11, 8) (11, 13) 
+x : 12, y : 9 - node : (11, 8) (11, 13) 
+x : 13, y : 8 - node : (11, 8) (11, 13) 
+x : 13, y : 13 - node : (11, 8) (11, 13) 
+depth 1 finished. depth1 size is 2
+get_cp_st_arr start
+get_cp_st_arr finish
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+tree.depth2.code6
+delete parent node (depth 2)
+depth 2 finished
+depth 3 finished
+calculate add point of all nodes
+x = 11 , y = 13

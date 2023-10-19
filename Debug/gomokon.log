@@ -1,0 +1,14 @@
+﻿  gomokon.cpp
+c:\github\gomokon\gomokon\gomokon.cpp(72): warning C4101: 'hor' :참조되지 않은 지역 변수입니다.
+c:\github\gomokon\gomokon\gomokon.cpp(72): warning C4101: 'ver' :참조되지 않은 지역 변수입니다.
+c:\github\gomokon\gomokon\gomokon.cpp(103): warning C4101: 'changecnt' :참조되지 않은 지역 변수입니다.
+c:\github\gomokon\gomokon\gomokon.cpp(103): warning C4101: 'inpt' :참조되지 않은 지역 변수입니다.
+c:\github\gomokon\gomokon\gomokon.cpp(302): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\gomokon\gomokon\gomokon.cpp(309): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\gomokon\gomokon\gomokon.cpp(331): warning C4101: 'inp' :참조되지 않은 지역 변수입니다.
+c:\github\gomokon\gomokon\gomokon.cpp(332): warning C4101: 'token' :참조되지 않은 지역 변수입니다.
+c:\github\gomokon\gomokon\gomokon.cpp(421): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\gomokon\gomokon\gomokon.cpp(428): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\gomokon\gomokon\gomokon.cpp(512): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\github\gomokon\gomokon\gomokon.cpp(698): warning C4101: 'event' :참조되지 않은 지역 변수입니다.
+  gomokon.vcxproj -> C:\Github\gomokon\gomokon\Debug\gomokon.exe
